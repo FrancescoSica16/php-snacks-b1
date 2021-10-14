@@ -1,0 +1,12 @@
+.wrapper{
+    padding:50px;
+    width:400px;
+}
+
+.green{
+    background-color: green;
+}
+
+.gray{
+    background-color: grey;
+}
